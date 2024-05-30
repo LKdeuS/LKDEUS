@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy <a href="">LKdeus</a> 👋</h1>
 </div>
-<img src="https://i.imgur.com/weNbhGZ.png">
+<img src="https://cloudfront-us-east-1.images.arcpublishing.com/grupoclarin/ESPG4P6UGVBW5BQ7WEXKTUEALA.jpg">
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social)](https://www.youtube.com/channel/UCf2BvyhYasYk2SkAxOOUmAQ)
 [![Twitch Status](https://img.shields.io/twitch/status/aristidevs?style=social)](https://www.twitch.tv/lkjuanjoo)
@@ -13,9 +13,6 @@
 - ⭐ Github Star ⭐ 
 - 📲 Software engineer
 - 🎥 My channel [Youtube](https://www.youtube.com/channel/UCf2BvyhYasYk2SkAxOOUmAQ) 
-
-- 📗 Autor del libro [Iniciación a Android en Kotlin. Casos prácticos](https://www.paraninfo.es/catalogo/9788428340922/iniciacion-a-android-en-kotlin--casos-practicos)
-- 🧑‍🏫 Creador de [AppCademy](https://appcademy.dev)
 <br>
 
 ## Proyectos *bombitas*
