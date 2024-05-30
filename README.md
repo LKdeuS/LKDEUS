@@ -11,6 +11,6 @@
 ## Sobre mi
 
 - ⭐ Github Star ⭐ 
-- 📲 Software engineer
+- 📲 Software engineer in progress
 - 🎥 My channel [Youtube](https://www.youtube.com/channel/UCf2BvyhYasYk2SkAxOOUmAQ) 
 <br>
