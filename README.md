@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy <a href="">LKdeus</a> 👋</h1>
 </div>
-<img max width="300px"  src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
+<img max width="500px" height="300px"  src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social)](https://www.youtube.com/channel/UCf2BvyhYasYk2SkAxOOUmAQ)
 [![Twitch Status](https://img.shields.io/twitch/status/aristidevs?style=social)](https://www.twitch.tv/lkjuanjoo)
