@@ -4,7 +4,7 @@
 
 <div style="display: flex; justify-content: space-between;">
   <img max-width="500px" height="300px" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif" alt="Coding GIF">
-  <img max-width="500px" height="300px" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif" alt="Coding GIF 2">
+  <img max-width="500px" height="300px" src="https://i.gifer.com/8JIk.gif" alt="Coding GIF 2">
 </div>
 
 <div align="left">
