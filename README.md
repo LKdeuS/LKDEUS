@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,python,discord,sql,mongodb" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,python,discord,oracle,mongodb" />
   </a>
 </p>
 ## Sobre mi
