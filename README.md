@@ -1,13 +1,12 @@
-<div align="left">
-  <h1 align="left">Hola, soy <a href="">LKdeus</a> 👋</h1>
+<div align="center">
+  <h1 align="center">Hola, soy <a href="">LKdeus</a> 👋</h1>
 </div>
 
-<div style="display: flex; justify-content: space-between;">
+<div align="center">
   <img max-width="500px" height="300px" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif" alt="Coding GIF">
-  <img max-width="500px" height="300px" src="https://i.gifer.com/8JIk.gif" alt="Coding GIF 2">
 </div>
 
-<div align="left">
+<div align="center">
   <a href="https://www.youtube.com/channel/UCf2BvyhYasYk2SkAxOOUmAQ">
     <img src="https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social" alt="YouTube Channel Subscribers">
   </a>
@@ -20,7 +19,7 @@
   <img src="https://discordapp.com/api/guilds/807719549075980308/widget.png?style=shield" alt="Discord Shield">
 </div>
 
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,python,discord,github,mongodb,mysql,windows,vscode,php" alt="Skills">
   </a>
@@ -34,11 +33,11 @@
 
 <br>
 
-<h2 align="left">GitHub :octocat:</h2>
+<h2 align="center">GitHub :octocat:</h2>
 
 <!--- stats & Trophy (start) -->
 
-<p align="left">
+<p align="center">
   <!--- stats (start) -->
   <table>
     <tr>
@@ -46,7 +45,7 @@
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=LKdeuS&theme=dark&hide_border=false">
       </td>
       <td>
-        <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=LKdeuS&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10">
+        <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=LKdeuS&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10">
       </td>
     </tr>
   </table>
@@ -54,9 +53,9 @@
 </p>
 
 <!--- trophy (start) -->
-<div align="left">
+<div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-    <img align="left" width="84%" src="https://github-profile-trophy.vercel.app/?username=LKdeuS&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY">
+    <img align="center" width="84%" src="https://github-profile-trophy.vercel.app/?username=LKdeuS&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY">
   </a>
 </div>
 <!--- trophy (end) -->
