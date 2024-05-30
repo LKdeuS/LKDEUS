@@ -2,21 +2,6 @@
 <h1 align="center">Hola, soy <a href="">LKdeus</a> 👋</h1>
 </div>
 
-  <style>
-    .container {
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      height: 100vh; /* Altura del viewport */
-    }
-  </style>
-
-<div class="container">
-    <img src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif" alt="Coding GIF">
-  </div>
-
-
-
 <img max width="500px" height="300px"  src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social)](https://www.youtube.com/channel/UCf2BvyhYasYk2SkAxOOUmAQ)
