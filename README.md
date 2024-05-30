@@ -14,9 +14,3 @@
 - 📲 Software engineer
 - 🎥 My channel [Youtube](https://www.youtube.com/channel/UCf2BvyhYasYk2SkAxOOUmAQ) 
 <br>
-
-## Proyectos *bombitas*
-
-                                                                                      
-
-
