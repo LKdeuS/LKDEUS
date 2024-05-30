@@ -9,10 +9,10 @@
 ![Discord Shield](https://discordapp.com/api/guilds/807719549075980308/widget.png?style=shield)
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,c,vim" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,python,discord" />
   </a>
 </p>
 ## Sobre mi
